@@ -8,11 +8,12 @@ I'm KingShedew! I specialize in making UBG and proxy-browser websites. Here are 
 # Files For ECOG:
 * [ecog-files](https://github.com/ecog-ent/ecog-files)  - Just the game files used for ECOG.
 * [ecog-emulator](https://github.com/ecog-ent/ecog-emulator/)) - The emulator roms and zips used for ECOG.
-Other repositories:
+---
+# Other repositories:
+* [Gun Spin But It's Downloadable](https://github.com/KingShedew/gun-spin-but-its-downloadable) - A Gun Spin port that is able to be downloaded.
 * [768394762](https://github.com/KingShedew/768394762) - A fixed version of Stealth Assassin.
+* [Getaway Shootout](https://github.com/KingShedew/getaway-shootout) - Getaway Shootout but it's downloadable.
+* [ECOG Snow Rider 3D](https://github.com/KingShedew/ecog-snow-rider-3d) - A fixed version of Snow Rider 3D. A fun game.
 * [SchoolHouseRemake](https://github.com/KingShedew/schoolhouseremake) - Code for Raldi's Cr@ckhouse that is supposed to be undetectable in Gaggle.
 * [Eagler Hacks](https://github.com/KingShedew/eagler-hacks) - A bunch of hacked versions of EaglerCraft.
-* [ECOG Snow Rider 3D](https://github.com/KingShedew/ecog-snow-rider-3d) - A fixed version of Snow Rider 3D. A fun game.
-* [Gun Spin But It's Downloadable](https://github.com/KingShedew/gun-spin-but-its-downloadable) - A Gun Spin port that is able to be downloaded.
-* [Getaway Shootout](https://github.com/KingShedew/getaway-shootout) - Getaway Shootout but it's downloadable.
 
