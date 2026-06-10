@@ -2,8 +2,8 @@
 
 I'm KingShedew! I specialize in making UBG and proxy-browser websites. Here are my current projects:
 > (Note: Not all of my projects are in Github!)
-* ECOG Infinite ([https://github.com/kingshedew/ecog](https://github.com/kingshedew/ecog)) - It's a UBG site with the best games, and more! It has a lot of exclusive things!
-* Shedew-OS(https://github.com/KingShedew/shedew-os) [UNFINISHED] ) - A project that is supposed to look like an operating system, with it's own apps and more.
+* [ECOG Infinite](https://github.com/kingshedew/ecog) - It's a UBG site with the best games, and more! It has a lot of exclusive things!
+* [Shedew-OS](https://github.com/KingShedew/shedew-os) [UNFINISHED] ) - A project that is supposed to look like an operating system, with it's own apps and more.
 --- 
 # Files For ECOG:
 * [ecog-files](https://github.com/ecog-ent/ecog-files)  - Just the game files used for ECOG.
