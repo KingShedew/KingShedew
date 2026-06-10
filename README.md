@@ -7,7 +7,7 @@ I'm KingShedew! I specialize in making UBG and proxy-browser websites. Here are 
 --- 
 # Files For ECOG:
 * [ecog-files](https://github.com/ecog-ent/ecog-files)  - Just the game files used for ECOG.
-* [ecog-emulator](https://github.com/ecog-ent/ecog-emulator/)) - The emulator roms and zips used for ECOG.
+* [ecog-emulator](https://github.com/ecog-ent/ecog-emulator/) - The emulator roms and zips used for ECOG.
 ---
 # Other repositories:
 * [Gun Spin But It's Downloadable](https://github.com/KingShedew/gun-spin-but-its-downloadable) - A Gun Spin port that is able to be downloaded.
