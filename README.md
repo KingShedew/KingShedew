@@ -1,14 +1,10 @@
-## Hi there 👋
+## KingShedew
 
-I'm KingShedew! I specialize in making UBG and proxy-browser websites. Here are my current projects:
+I am the best flash ported
 > (Note: Not all of my projects are in Github!)
-* [ECOG Infinite](https://github.com/kingshedew/ecog) - It's a UBG site with the best games, and more! It has a lot of exclusive things!
-* [Shedew-OS](https://github.com/KingShedew/shedew-os) [UNFINISHED] ) - A project that is supposed to look like an operating system, with its own apps and more.
+* [ECOG Infinite](https://ecog-inf.github.io) [(REPO)](https://github.com/kingshedew/ecog) - It's a UBG site with the best games, and more! It has a lot of exclusive games!
+* [Flashh](https://flashh-ks.vercel.app) - The best website for flash games, with over 200 games ported by me.
 --- 
-# Files For ECOG:
-* [ecog-files](https://github.com/ecog-ent/ecog-files)  - Just the game files used for ECOG.
-* [ecog-emulator](https://github.com/ecog-ent/ecog-emulator/) - The emulator roms and zips used for ECOG.
----
 # Other repositories:
 * [Gun Spin But It's Downloadable](https://github.com/KingShedew/gun-spin-but-its-downloadable) - A Gun Spin port that is able to be downloaded.
 * [768394762](https://github.com/KingShedew/768394762) - A fixed version of Stealth Assassin.
