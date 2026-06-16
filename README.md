@@ -14,5 +14,5 @@ Lowk the best flash porter.
 * [Eagler Hacks](https://github.com/KingShedew/eagler-hacks) - A bunch of hacked versions of EaglerCraft.
 
 # Random:
-[Dungeon Delve](https://github.com/KingShedew/Dungeon-Delve) - A cool dungeon game I made.
+* [Dungeon Delve](https://github.com/KingShedew/Dungeon-Delve) - A cool dungeon game I made.
 
