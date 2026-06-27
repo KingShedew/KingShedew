@@ -11,7 +11,6 @@ Lowk the best flash porter.
 * [Getaway Shootout](https://github.com/KingShedew/getaway-shootout) - Getaway Shootout but it's downloadable.
 * [ECOG Snow Rider 3D](https://github.com/KingShedew/ecog-snow-rider-3d) - A fixed version of Snow Rider 3D. A fun game.
 * [SchoolHouseRemake](https://github.com/KingShedew/schoolhouseremake) - Code for Raldi's Cr@ckhouse that is supposed to be undetectable in Gaggle.
-* [Eagler Hacks](https://github.com/KingShedew/eagler-hacks) - A bunch of hacked versions of EaglerCraft.
 
 # Random:
 * [Dungeon Delve](https://github.com/KingShedew/Dungeon-Delve) - A cool dungeon game I made.
