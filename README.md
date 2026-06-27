@@ -1,9 +1,9 @@
 ## KingShedew
 
 Lowk the best flash porter.
-> Join my discord! (linked in "flashh")
+> Join my discord! (linked in "ECOG")
 * [ECOG Infinite](https://ecog-inf.github.io) [(REPO)](https://github.com/kingshedew/ecog) - It's a UBG site with the best games, and more! It has a lot of exclusive games!
-* [Flashh](https://flashh-ks.vercel.app) - The best website for flash games, with over 200 games ported by me.
+* [ECOG](https://flashh-ks.vercel.app) - The best website for flash games, with over 200 games ported by me.
 --- 
 # Ports and Stuff:
 * [Gun Spin But It's Downloadable](https://github.com/KingShedew/gun-spin-but-its-downloadable) - A Gun Spin port that is able to be downloaded.
